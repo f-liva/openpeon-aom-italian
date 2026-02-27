@@ -28,7 +28,7 @@ Italian voice pack for [peon-ping](https://openpeon.com), featuring dialogue fro
 | user.spam | 8 | "Non mi piaci!", "Vattene!", "Sei proprio uno sciocco!" |
 | session.end | 5 | "Grazie, amico mio!", "Che gli Dei ci proteggano!" |
 
-**64 sound files** | **67 category entries** | **1.5 MB total**
+**64 sound files (WAV)** | **67 category entries** | **~5.5 MB total**
 
 ## Install
 
@@ -58,7 +58,9 @@ This pack was created with the help of [Claude Code](https://claude.com/claude-c
    - Variety of characters (Arkantos, Ajax, Amanra, etc.)
    - Appropriate tone and duration (0.5s - 2.5s)
 
-5. **Pack assembly** - Files were renamed with descriptive names (`ajax-era-ora.mp3`), SHA256 checksums computed, and the `openpeon.json` manifest generated following the CESP v1.0 format
+5. **Format conversion** - All files were converted from MP3 to WAV (PCM 16-bit, 44.1kHz, mono) for maximum compatibility with audio backends (paplay on WSL/PulseAudio does not reliably play MP3)
+
+6. **Pack assembly** - Files were renamed with descriptive names (`ajax-era-ora.wav`), SHA256 checksums computed, and the `openpeon.json` manifest generated following the CESP v1.0 format
 
 ## License
 
