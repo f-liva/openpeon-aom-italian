@@ -1,0 +1,6 @@
+.venv/
+.idea/
+sounds-raw/
+transcribe.py
+transcriptions.json
+__pycache__/

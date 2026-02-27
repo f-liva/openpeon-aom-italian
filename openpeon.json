@@ -1,0 +1,396 @@
+{
+  "cesp_version": "1.0",
+  "name": "aom-italian",
+  "display_name": "Age of Mythology - Italian",
+  "version": "1.0.0",
+  "description": "Voci italiane dalla campagna di Age of Mythology: Arkantos, Ajax, Amanra e altri eroi",
+  "author": {
+    "name": "fede9",
+    "github": "fede9"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "it",
+  "preview": "sounds/arkantos-bene-cosi.mp3",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/signore-si-signore.mp3",
+          "label": "Sì, signore! - Narratore",
+          "sha256": "f590928dd452427bc68ec4b156d3b09e45696fe5c06d94fb0b031a7bcb97101d"
+        },
+        {
+          "file": "sounds/narratore-signore.mp3",
+          "label": "Signore. - Narratore",
+          "sha256": "d952d5be79a076182b9fd096e569f0217389c296ab2e8a951b2cbc0629954f60"
+        },
+        {
+          "file": "sounds/arkantos-si.mp3",
+          "label": "Sì? - Arkantos",
+          "sha256": "6cb0dbe74ffb505ec4d4ba904c238f3cb654b63b273a738f60343a0e8f884e09"
+        },
+        {
+          "file": "sounds/kastor-seguimi.mp3",
+          "label": "Seguimi! - Kastor",
+          "sha256": "934d853e60d16d6876e7f559ba18a4006f21cc9649e65fabc60d6da419982f8a"
+        },
+        {
+          "file": "sounds/narratore-al-tuo-comando.mp3",
+          "label": "Sono al tuo comando, Arcanthos. - Narratore",
+          "sha256": "e3d832a65077d3d48e539e1f51b9fbe4d60f992068e9827889ac3a2dba273414"
+        },
+        {
+          "file": "sounds/kemsyt-che-devo-fare.mp3",
+          "label": "Che devo fare? - Kemsyt",
+          "sha256": "9fd0b9e683174fe5ac5bef7505b2d7fcc0b6e3e57f22be5b04b514279a8d2596"
+        },
+        {
+          "file": "sounds/narratore-ai-tuoi-ordini.mp3",
+          "label": "Ai tuoi ordini, Arcantos. - Narratore",
+          "sha256": "62c4c6a81afa57fd75dcc96f16df2c913063310db7cf6a15dc422e1743929060"
+        },
+        {
+          "file": "sounds/taunt-siete-pronti.mp3",
+          "label": "Siete pronti? - Taunt",
+          "sha256": "50683c86442b2b0eedd05d3c115f9f4589bfb3c3ce4fa6e8ab38d812a786d91f"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/narratore-si.mp3",
+          "label": "Sì! - Narratore",
+          "sha256": "05ba18c57c27c7c9eddc7a6dbc510d090f48e1ce0fb29232a7f9c7622babe12f"
+        },
+        {
+          "file": "sounds/arkantos-bene-cosi.mp3",
+          "label": "Bene così! - Arkantos",
+          "sha256": "8c5026dd01742b6402b20c45f09c282f10385fca0f32888a9820aee3f0bfc973"
+        },
+        {
+          "file": "sounds/consigliere-perfetto.mp3",
+          "label": "Perfetto! - Consigliere",
+          "sha256": "0f87ca91a0e3e34257e8bec9b4a8f4ac7deb8b86366279462fb3b659853371f1"
+        },
+        {
+          "file": "sounds/kemsyt-si-generale.mp3",
+          "label": "Sì, generale. - Kemsyt",
+          "sha256": "b87990b9522edb862fa1533076bee9649458996bb2dd987c81606f26e61806af"
+        },
+        {
+          "file": "sounds/skult-e-sia.mp3",
+          "label": "E sia! - Skult",
+          "sha256": "b249bb542666249febfdb3a5163298321714355f667e23e3b590a354f07cbdc4"
+        },
+        {
+          "file": "sounds/taunt-si.mp3",
+          "label": "Sì! - Taunt",
+          "sha256": "6a77a1a8809ef123e46b4edf8310fddfd7e79ca2139564df51fcd77ba3c5316f"
+        },
+        {
+          "file": "sounds/taunt-sara-come-dici-tu.mp3",
+          "label": "Sarà come dici tu... - Taunt",
+          "sha256": "e6e428c2a7f0a5d3ddb98b88a1b2fa1efa8d61e46df0997f88b84ffc964a0a97"
+        },
+        {
+          "file": "sounds/arkantos-vale-la-pena.mp3",
+          "label": "Vale la pena provare! - Arkantos",
+          "sha256": "a02b59da5571ca9c1d3764906b455d1ee86c146150ac8c539a2b78b80a825d9d"
+        },
+        {
+          "file": "sounds/odisseo-bella-idea.mp3",
+          "label": "Bella idea! - Odisseo",
+          "sha256": "b6c496862fa25dc489bc2a70e77db0b7c24b1ce8e6c2574ebc2a48f4c55384c2"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/ajax-era-ora.mp3",
+          "label": "Era ora! - Ajax",
+          "sha256": "0b48aeb69511232be9955a6bcda139e55078a1c1f03e0277b95216da203641a6"
+        },
+        {
+          "file": "sounds/arkantos-siamo-tornati.mp3",
+          "label": "Siamo tornati! - Arkantos",
+          "sha256": "2a95d7900673a90c857089f5ad974baeff2a89dc2524f3c8bd5d3734666d7084"
+        },
+        {
+          "file": "sounds/ajax-abbiamo-le-navi.mp3",
+          "label": "Abbiamo le navi! - Ajax",
+          "sha256": "9d64bb2a690396e53148b4b659b653befa1909858cc09e8f85b1ae8f4275b598"
+        },
+        {
+          "file": "sounds/narratore-siamo-liberi.mp3",
+          "label": "Siamo liberi! - Narratore",
+          "sha256": "75ec0401f3555f604c53e4da2856ed65ce740b320673a1def37455c32d2383ab"
+        },
+        {
+          "file": "sounds/narratore-maledizione-svanita.mp3",
+          "label": "La maledizione è svanita! - Narratore",
+          "sha256": "957f317e3eaf092d164168d1121e0c8f043eb8f7e54420a6a189aec16a893630"
+        },
+        {
+          "file": "sounds/ajax-grazie-amico.mp3",
+          "label": "Grazie, amico mio! - Ajax",
+          "sha256": "f3a156f1a6ad272a9a5301d4a4e796510d1259e5e4cf26fba6adc93afce286b1"
+        },
+        {
+          "file": "sounds/arkantos-porta-abbattuta.mp3",
+          "label": "La porta è abbattuta! - Arkantos",
+          "sha256": "2d2d167e4bdb514fb1d84b4249f1326e2957923688088be9643ab5302dc20568"
+        },
+        {
+          "file": "sounds/narratore-di-nuovo-umano.mp3",
+          "label": "Sono di nuovo umano! - Narratore",
+          "sha256": "eda74426b454e3c298d435486a063cb9f629be80a40ee8cb57cfb9e659606c4f"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/ajax-cosa-successo.mp3",
+          "label": "Cosa è successo? - Ajax",
+          "sha256": "71d94ea1ffc9246996d22972c43d5d45c658868894a2dbb4fac41b582dbd1335"
+        },
+        {
+          "file": "sounds/ajax-non-mi-suona-bene.mp3",
+          "label": "Non mi suona bene! - Ajax",
+          "sha256": "84b956be857820fee4b6adf223dc2c69acb92f239a663a6ecf2adb8298d6014b"
+        },
+        {
+          "file": "sounds/skult-giganti-attaccano.mp3",
+          "label": "I giganti attaccano! - Skult",
+          "sha256": "46fe963274cb449f5245586661e48046894d09a14cf773118175616fefb83a9b"
+        },
+        {
+          "file": "sounds/chirone-troppo-tardi.mp3",
+          "label": "Troppo tardi. - Chirone",
+          "sha256": "12761a778df87d0583c80023c896768468bd891b12d5a72a1a940fb43abcd86c"
+        },
+        {
+          "file": "sounds/taunt-attenzione-al-riparo.mp3",
+          "label": "Attenzione, al riparo! - Taunt",
+          "sha256": "61334791a84a898818daade0b68a3288b953b954d726ceaa2ccfebaebdf0e977"
+        },
+        {
+          "file": "sounds/narratore-salvateci.mp3",
+          "label": "Salvateci! - Narratore",
+          "sha256": "485a97f3223f4dc04a4112fbbb8dbf8133067543aa904ad69256e245bef6b387"
+        },
+        {
+          "file": "sounds/taunt-mi-serve-aiuto.mp3",
+          "label": "Mi serve aiuto! - Taunt",
+          "sha256": "480008b2fb7b6b3217f89fb3e851503745892279cf5962756a55009d26b32437"
+        },
+        {
+          "file": "sounds/ajax-bruciando-armi.mp3",
+          "label": "Stanno bruciando le nostre armi! - Ajax",
+          "sha256": "97cbb3581c791b4bb882b656dbe7fe07bb930255ad24b1db39cfb962f94a78bd"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/ajax-cosa-facciamo-ora.mp3",
+          "label": "Cosa facciamo ora? - Ajax",
+          "sha256": "c6ee079334135522bd82931f31dfcc308ee5b6ccbcc0baf635342aee54ffac40"
+        },
+        {
+          "file": "sounds/ajax-quale-missione.mp3",
+          "label": "Quale missione? - Ajax",
+          "sha256": "895edd1d9abec032f3e4cde8794e5e4c927f77fde8ebe64a580db6199172a289"
+        },
+        {
+          "file": "sounds/arkantos-cosa.mp3",
+          "label": "Cosa? - Arkantos",
+          "sha256": "89c663f749ae34b4740c16777e1621a082c82d77787b64e8ba9903db2d1cd923"
+        },
+        {
+          "file": "sounds/amanra-quanto-manca.mp3",
+          "label": "Quanto manca? - Amanra",
+          "sha256": "5f3b2dd775227448cd74dfc7241059a7dd6eba0beccde086d945f394c56d03c4"
+        },
+        {
+          "file": "sounds/amanra-che-facciamo-qui.mp3",
+          "label": "Che cosa facciamo qui? - Amanra",
+          "sha256": "bd34a4baecca3d7cc4b405bb19250a4c6ea0d2d1939169d7aa3c7bf2fc27d58c"
+        },
+        {
+          "file": "sounds/arkantos-e-tu-chi-sei.mp3",
+          "label": "E tu chi sei? - Arkantos",
+          "sha256": "aa4cc1a6c7101a3f9933998eef121b49c55e1d337a4037ee2e8cd156644976ef"
+        },
+        {
+          "file": "sounds/ajax-cosa-facciamo.mp3",
+          "label": "Cosa facciamo, Arcanthus? - Ajax",
+          "sha256": "19884c6e0786d2968eda75617388f5e2222dad8a64ce36be3fbbb4dd1f5f49b5"
+        },
+        {
+          "file": "sounds/taunt-quanto-manca.mp3",
+          "label": "Quanto manca? - Taunt",
+          "sha256": "3e19386788c753428c685cfd8f78edde9c15c39365f05ca35f43f4253d2a5400"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/consigliere-scarsita-oro.mp3",
+          "label": "Scarsità di oro. - Consigliere",
+          "sha256": "b541fd03ae9da0420148cfe959393e4afca83b42460d08948fdd7086f1d4de70"
+        },
+        {
+          "file": "sounds/consigliere-scarsita-legname.mp3",
+          "label": "Scarsità di legname. - Consigliere",
+          "sha256": "e55d3d8d7ed863589cc10efc577444b01a66c82355cf226da16b40af2a74f354"
+        },
+        {
+          "file": "sounds/consigliere-scarsita-cibo.mp3",
+          "label": "Scarsità di cibo. - Consigliere",
+          "sha256": "fc9513050dd90c63b40bfe7de4724ef4eaab024ef1c782466905558b7477f72e"
+        },
+        {
+          "file": "sounds/narratore-aiuto.mp3",
+          "label": "Aiuto! - Narratore",
+          "sha256": "868a9eb4ad040e3acb28011fe97bc703bee483e0264a28f6b40b79f46dce384c"
+        },
+        {
+          "file": "sounds/taunt-mi-serve-aiuto.mp3",
+          "label": "Mi serve aiuto! - Taunt",
+          "sha256": "480008b2fb7b6b3217f89fb3e851503745892279cf5962756a55009d26b32437"
+        },
+        {
+          "file": "sounds/chirone-troppo-tardi.mp3",
+          "label": "Troppo tardi. - Chirone",
+          "sha256": "12761a778df87d0583c80023c896768468bd891b12d5a72a1a940fb43abcd86c"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/amanra-sono-in-posizione.mp3",
+          "label": "Sono in posizione! - Amanra",
+          "sha256": "4cf358951b2256925b8c2754e7e213184da598e19f4100c117f400c6d6012ba4"
+        },
+        {
+          "file": "sounds/chirone-in-posizione.mp3",
+          "label": "Sono in posizione. - Chirone",
+          "sha256": "a17b84923d6fd9cce5af97febf6f5a95d15702c829a4229ceeb3365d2fecc7a4"
+        },
+        {
+          "file": "sounds/ajax-pezzo-in-posizione.mp3",
+          "label": "Il nostro pezzo in posizione! - Ajax",
+          "sha256": "6dda81b1ff5939e549c551013c11cf4381326f046e4e986ca2c3758681517a41"
+        },
+        {
+          "file": "sounds/taunt-sto-esplorando.mp3",
+          "label": "Sto esplorando. - Taunt",
+          "sha256": "ab819f13bb95b4b39dc14942ac4ebfaf1a66a29e793017954c9076d269ef57d4"
+        },
+        {
+          "file": "sounds/narratore-altri-rinforzi.mp3",
+          "label": "Ecco altri rinforzi! - Narratore",
+          "sha256": "e4d79e9f46b3dbb29b32d93094ec916cb63e8313ad780a14c2857ec14db5b363"
+        },
+        {
+          "file": "sounds/arkantos-ci-siamo-persi.mp3",
+          "label": "Ci siamo persi. - Arkantos",
+          "sha256": "0e7225d7dca8f16792de4c2d96bac9d3e27496cb769e499877ee25696c6e885e"
+        },
+        {
+          "file": "sounds/narratore-giunti-rinforzi.mp3",
+          "label": "Sono giunti altri rinforzi. - Narratore",
+          "sha256": "9e9d778f3edb723e22cff2b1d0e798d6bf0eba37548f04f02e96e98ceff8c1c9"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/arkantos-non-mi-piaci.mp3",
+          "label": "Non mi piaci! - Arkantos",
+          "sha256": "c4d3c3c54c78e9aa8f9a9c204ecdaeeb3f3c84f1e02748998920fe119650ce37"
+        },
+        {
+          "file": "sounds/arkantos-no.mp3",
+          "label": "No! - Arkantos",
+          "sha256": "8b36b7eee003ee0deee12ce245cdebd7bd771da1d08b7d05f2555302483488de"
+        },
+        {
+          "file": "sounds/taunt-no.mp3",
+          "label": "No! - Taunt",
+          "sha256": "9328f898197e9bf6296602710921d674398738a183408d72078d987446272be2"
+        },
+        {
+          "file": "sounds/taunt-codardo.mp3",
+          "label": "Codardo! - Taunt",
+          "sha256": "87022fe668aec25f80447785a9611914f1ead1aa2177d65280dfd365f241c71a"
+        },
+        {
+          "file": "sounds/taunt-vattene.mp3",
+          "label": "Vattene! - Taunt",
+          "sha256": "eaf1fd66768f7e348e2f87dd202d8f602259cc98f7a4a424475de8b83826c35c"
+        },
+        {
+          "file": "sounds/taunt-sei-uno-sciocco.mp3",
+          "label": "Sei proprio uno sciocco! - Taunt",
+          "sha256": "3c776198405b797523a897ce61a7f8000e2eff81487aa02493e6a6a360026290"
+        },
+        {
+          "file": "sounds/taunt-decisione-sciocca.mp3",
+          "label": "Che decisione sciocca! - Taunt",
+          "sha256": "ee327a32162aec3f9b43add86f567133221ba7294e62255ece8895cf9a8a3190"
+        },
+        {
+          "file": "sounds/ajax-arrivano.mp3",
+          "label": "Arrivano! - Ajax",
+          "sha256": "bbf3d0037a10c79ec77265e85ed901e9d20b2466e5d0777df26eea408d02e9c2"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/ajax-grazie-amico.mp3",
+          "label": "Grazie, amico mio! - Ajax",
+          "sha256": "f3a156f1a6ad272a9a5301d4a4e796510d1259e5e4cf26fba6adc93afce286b1"
+        },
+        {
+          "file": "sounds/arkantos-dei-ci-proteggano.mp3",
+          "label": "Che gli Dei ci proteggano! - Arkantos",
+          "sha256": "fc6442a53db8a4325f8427fd21a16661bb386b7b934ceebf0c7d9cd01b9b7b5d"
+        },
+        {
+          "file": "sounds/narratore-grazie-stranieri.mp3",
+          "label": "Grazie, stranieri! - Narratore",
+          "sha256": "a478f799cb0fcaa157528a1ea3f312aeea361a28620adb1659a686dd4118bfb4"
+        },
+        {
+          "file": "sounds/narratore-grazie-arcanthos.mp3",
+          "label": "Grazie, Arcanthos! - Narratore",
+          "sha256": "f8c7ec4ecc05c0946223da83b8af5e5eba4f38c8ca9587c86a5f7f3c4971a3b4"
+        },
+        {
+          "file": "sounds/amanra-grazie-iside.mp3",
+          "label": "Grazie, Iside! - Amanra",
+          "sha256": "77f39a1b1d2452cf8761bfeff95141729f2a0d3529573d8ec8c2f23e73b446f2"
+        }
+      ]
+    }
+  },
+  "category_aliases": {
+    "greeting": "session.start",
+    "acknowledge": "task.acknowledge",
+    "complete": "task.complete",
+    "error": "task.error",
+    "permission": "input.required",
+    "resource_limit": "resource.limit",
+    "annoyed": "user.spam"
+  }
+}
